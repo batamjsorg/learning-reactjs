@@ -6,6 +6,6 @@
 
 Speakers:
 
-1. **Akhmad Fauzi Hasibuan** [![github][github-logo]][fauzzi-github] [![linkedin][linkedin-logo]][fauzzi-in] 
+1. **Akhmad Fauzi Hasibuan** [![github][github-logo]][fauzzi-github] [![linkedin][linkedin-logo]][fauzzi-in 
 [Slide](https://www.slideshare.net/secret/OYnzvdNVJbeE4)
 
